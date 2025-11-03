@@ -1,0 +1,31 @@
+transaction_id,date,product_id,product_name,category,quantity,price,customer_id,store_id,payment_method
+1001,2024-01-15,P001,Laptop,Electronics,1,899.99,C001,S01,Credit Card
+1002,2024-01-15,P002,Wireless Mouse,Electronics,2,29.99,C002,S01,Debit Card
+1003,2024-01-15,P003,Mechanical Keyboard,Electronics,1,79.99,C003,S02,Credit Card
+1004,2024-01-15,P004,USB-C Hub,Electronics,3,45.50,C004,S01,PayPal
+1005,2024-01-16,P005,Monitor 27 inch,Electronics,1,299.99,C005,S02,Credit Card
+1006,2024-01-16,P006,Webcam HD,Electronics,2,59.99,C006,S03,Cash
+1007,2024-01-16,P007,Laptop Stand,Accessories,1,35.00,C007,S01,Debit Card
+1008,2024-01-16,P008,Cable Organizer,Accessories,4,12.99,C008,S02,Credit Card
+1009,2024-01-17,P009,External SSD 1TB,Storage,1,149.99,C009,S03,Credit Card
+1010,2024-01-17,P010,Mouse Pad,Accessories,2,15.99,C010,S01,Cash
+1011,2024-01-17,P011,HDMI Cable,Cables,3,19.99,C011,S02,Debit Card
+1012,2024-01-17,P012,Portable Charger,Electronics,1,39.99,C012,S03,PayPal
+1013,2024-01-18,P013,Bluetooth Speaker,Audio,2,89.99,C013,S01,Credit Card
+1014,2024-01-18,P014,Noise Cancelling Headphones,Audio,1,249.99,C014,S02,Credit Card
+1015,2024-01-18,P015,USB Flash Drive 64GB,Storage,5,24.99,C015,S03,Cash
+1016,2024-01-18,P016,Desk Lamp LED,Accessories,1,42.50,C016,S01,Debit Card
+1017,2024-01-19,P017,Ergonomic Chair,Furniture,1,399.99,C017,S02,Credit Card
+1018,2024-01-19,P018,Standing Desk Converter,Furniture,1,179.99,C018,S03,PayPal
+1019,2024-01-19,P019,Wireless Charger,Electronics,2,34.99,C019,S01,Credit Card
+1020,2024-01-19,P020,Phone Stand,Accessories,3,18.99,C020,S02,Cash
+1021,2024-01-20,P021,Drawing Tablet,Electronics,1,189.99,C021,S03,Credit Card
+1022,2024-01-20,P022,Stylus Pen,Accessories,2,29.99,C022,S01,Debit Card
+1023,2024-01-20,P023,Screen Protector,Accessories,4,9.99,C023,S02,Cash
+1024,2024-01-20,P024,Phone Case,Accessories,1,19.99,C024,S03,Credit Card
+1025,2024-01-21,P025,Power Strip Surge Protector,Electronics,2,27.99,C025,S01,PayPal
+1026,2024-01-21,P026,Cable Management Box,Accessories,1,22.99,C026,S02,Debit Card
+1027,2024-01-21,P027,Microphone USB,Audio,1,79.99,C027,S03,Credit Card
+1028,2024-01-21,P028,Ring Light,Electronics,1,45.99,C028,S01,Cash
+1029,2024-01-22,P029,Laptop Bag,Accessories,1,49.99,C029,S02,Credit Card
+1030,2024-01-22,P030,Screen Cleaning Kit,Accessories,2,14.99,C030,S03,Debit Card
